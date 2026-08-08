@@ -1,5 +1,5 @@
 # 🐍 The Ultimate Conda Commands Guide
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## From Zero to Conda Master
 
 > *"I started with zero coding knowledge. Now I'm sharing everything I wish I had in my first year."*
