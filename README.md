@@ -1,5 +1,7 @@
 # 🐍 The Ultimate Conda Commands Guide
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/NeuralBishal/From-Zero-To-Deployment.svg)](https://github.com/NeuralBishal/From-Zero-To-Deployment/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/NeuralBishal/From-Zero-To-Deployment.svg)](https://github.com/NeuralBishal/From-Zero-To-Deployment/network)
 ## From Zero to Conda Master
 
 > *"I started with zero coding knowledge. Now I'm sharing everything I wish I had in my first year."*
